@@ -1,5 +1,5 @@
 (self.webpackChunk_N_E = self.webpackChunk_N_E || []).push([
-  [780],
+  [233],
   {
     35426: function (e, r, t) {
       'use strict';
@@ -32399,68 +32399,6 @@
           isTshirtSize: P,
           isArbitraryShadow: T,
         });
-    },
-    74589: function (e, r, t) {
-      'use strict';
-      var o = t(2265);
-      let n = o.forwardRef(function (e, r) {
-        let { title: t, titleId: n, ...a } = e;
-        return o.createElement(
-          'svg',
-          Object.assign(
-            {
-              xmlns: 'http://www.w3.org/2000/svg',
-              fill: 'none',
-              viewBox: '0 0 24 24',
-              strokeWidth: 1.5,
-              stroke: 'currentColor',
-              'aria-hidden': 'true',
-              'data-slot': 'icon',
-              ref: r,
-              'aria-labelledby': n,
-            },
-            a
-          ),
-          t ? o.createElement('title', { id: n }, t) : null,
-          o.createElement('path', {
-            strokeLinecap: 'round',
-            strokeLinejoin: 'round',
-            d: 'M3.75 6.75h16.5M3.75 12h16.5m-16.5 5.25h16.5',
-          })
-        );
-      });
-      r.Z = n;
-    },
-    84573: function (e, r, t) {
-      'use strict';
-      var o = t(2265);
-      let n = o.forwardRef(function (e, r) {
-        let { title: t, titleId: n, ...a } = e;
-        return o.createElement(
-          'svg',
-          Object.assign(
-            {
-              xmlns: 'http://www.w3.org/2000/svg',
-              fill: 'none',
-              viewBox: '0 0 24 24',
-              strokeWidth: 1.5,
-              stroke: 'currentColor',
-              'aria-hidden': 'true',
-              'data-slot': 'icon',
-              ref: r,
-              'aria-labelledby': n,
-            },
-            a
-          ),
-          t ? o.createElement('title', { id: n }, t) : null,
-          o.createElement('path', {
-            strokeLinecap: 'round',
-            strokeLinejoin: 'round',
-            d: 'M6 18 18 6M6 6l12 12',
-          })
-        );
-      });
-      r.Z = n;
     },
     11735: function (e, r, t) {
       'use strict';
